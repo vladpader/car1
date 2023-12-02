@@ -1,0 +1,293 @@
+body {
+    background-image: url(https://geo-sin.ru/uploads/images/plohie-dorogi.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.frame {
+    height: 10px;
+    width: 500px;
+    background-color: rgb(41, 41, 41);
+    margin-top: 510px;
+    border-radius: 0 0 7px 7px;
+    position: relative;
+}
+
+.frame1 {
+    height: 150px;
+    width: 120px;
+    background-color: rgb(26, 54, 14);
+    margin-top: -160px;
+    position: relative;
+    left: 350px;
+    border-radius: 0 20px 0 0;
+}
+
+.frame2 {
+    height: 80px;
+    width: 150px;
+    background-color: rgb(26, 54, 14);
+    margin-top: -80px;
+    position: relative;
+    left: 380px;
+    border-radius: 0 20px 10px 0;
+
+}
+
+.window {
+    height: 50px;
+    width: 70px;
+    background-color: rgb(10, 112, 112);
+    margin-top: -137px;
+    position: relative;
+    left: 390px;
+    border-radius: 0 7px 7px 0;
+    ;
+}
+
+.window1 {
+    width: 30px;
+    height: 50px;
+    background-color: rgb(10, 112, 112);
+    margin-top: -50px;
+    position: relative;
+    left: 355px;
+    border-radius: 7px 0 0 7px;
+
+}
+
+.gtg {
+    width: 26px;
+    height: 18px;
+    background-color: rgb(210, 198, 30);
+    position: relative;
+    left: 499px;
+    margin-top: 12px;
+    border-radius: 0 10px 5px 0;
+}
+
+.kusov {
+    width: 350px;
+    height: 100px;
+    background-color: rgb(15, 31, 9);
+    position: relative;
+    margin-top: -43px;
+    border-radius: 7px 7px 0 0;
+}
+
+.stopar {
+    width: 7px;
+    height: 10px;
+    background-color: brown;
+    position: relative;
+    left: 3px;
+    margin-top: 9px;
+}
+
+.stopar1 {
+    width: 3px;
+    height: 10px;
+    background-color: black;
+    position: relative;
+    left: 7px;
+    margin-top: -10px;
+}
+
+.ww {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 100px;
+    position: relative;
+    left: 370px;
+    margin-top: -10px;
+}
+
+.ee {
+    height: 60px;
+    width: 60px;
+    background-color: rgb(33, 39, 29);
+    border-radius: 100px;
+    position: relative;
+    left: 390px;
+    margin-top: -80px;
+}
+
+.ii{
+    height: 35px;
+    width: 35px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 100px;
+    position: relative;
+    left: 402px;
+    margin-top: -48px;
+}
+
+.ff{
+    height: 10px;
+    width: 10px;
+    background-color: rgb(0, 0, 0);
+    position: relative;
+    margin-top: -10px;
+    left: 430px;
+    border-radius: 0 0 4px 4px;
+    transform: skew(50deg);
+}
+
+
+.ww2 {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 100px;
+    position: relative;
+    left: 140px;
+    margin-top: -70px;
+}
+
+.ee2 {
+    height: 60px;
+    width: 60px;
+    background-color: rgb(33, 39, 29);
+    border-radius: 100px;
+    position: relative;
+    left: 160px;
+    margin-top: -80px;
+}
+
+.ii2 {
+    height: 35px;
+    width: 35px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 100px;
+    position: relative;
+    left: 173px;
+    margin-top: -47px;
+}
+
+.ff2{
+    height: 10px;
+    width: 10px;
+    background-color: rgb(0, 0, 0);
+    position: relative;
+    margin-top: -30px;
+    left: 200px;
+    border-radius: 4px 4px 4px 4px;
+    transform: skew(120deg);
+}
+
+.ww3 {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 100px;
+    position: relative;
+    left: 25px;
+    margin-top: -48px;
+}
+
+.ee3 {
+    height: 60px;
+    width: 60px;
+    background-color: rgb(33, 39, 29);
+    border-radius: 100px;
+    position: relative;
+    left: 45px;
+    margin-top: -80px;
+}
+
+.ii3 {
+    height: 35px;
+    width: 35px;
+    background-color: rgb(3, 3, 3);
+    border-radius: 100px;
+    position: relative;
+    left: 57px;
+    margin-top: -48px;
+}
+
+.ff3{
+    height: 10px;
+    width: 10px;
+    background-color: rgb(0, 0, 0);
+    position: relative;
+    margin-top: -30px;
+    left: 50px;
+    border-radius: 4px 4px 4px 4px;
+    transform: skew(40deg);
+}
+
+.brizg {
+    height: 30px;
+    width: 10px;
+    background-color: rgb(27, 27, 27);
+    transform: skew(-40deg);
+    border-radius: 0 0 4px 4px;
+    position: relative;
+    margin-top: -75px;
+    left: 20px;
+}
+
+.brizg {
+    height: 30px;
+    width: 10px;
+    background-color: rgb(27, 27, 27);
+    transform: skew(-40deg);
+    border-radius: 0 0 4px 4px;
+    position: relative;
+    margin-top: -45px;
+    left: 20px;
+}
+
+.brizg2 {
+    height: 30px;
+    width: 10px;
+    background-color: rgb(27, 27, 27);
+    position: relative;
+    margin-top: -30px;
+    left: 240px;
+    border-radius: 0 0 4px 4px;
+    transform: skew(40deg);
+}
+
+.brizg3 {
+    height: 30px;
+    width: 10px;
+    background-color: rgb(27, 27, 27);
+    position: relative;
+    margin-top: -30px;
+    left: 360px;
+    border-radius: 0 0 4px 4px;
+    transform: skew(-40deg);
+}
+
+.brizg4 {
+    height: 30px;
+    width: 10px;
+    background-color: rgb(27, 27, 27);
+    position: relative;
+    margin-top: -30px;
+    left: 470px;
+    border-radius: 0 0 4px 4px;
+    transform: skew(40deg);
+}
+
+.drive1{
+    position: relative;
+    left: 0px;
+    animation: zil 2s;
+}
+
+@keyframes zil {
+    0% {
+       
+      left: 0px;
+    }
+  
+   
+  
+    100% {
+      left: calc(100% - 450px);
+  
+    }
+}
